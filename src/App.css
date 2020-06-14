@@ -1,4 +1,21 @@
-.App {
+.box{
+  height:500px;
+  background-color: lightgray;
+}
+.daylight{
+  background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+/*.App {
   text-align: center;
 }
 
@@ -36,3 +53,4 @@
     transform: rotate(360deg);
   }
 }
+*/
